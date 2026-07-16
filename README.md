@@ -112,19 +112,3 @@ Content-Type: application/json
   "user_id": 0
 }
 ```
-
-## 📈 Roadmap
-
-- [x] CRUD Operations
-- [ ] Request Validation
-- [ ] Global Exception Handling
-- [ ] JWT Authentication
-- [ ] Authorization (Role-Based Access)
-- [ ] Pagination
-- [ ] Search & Filter
-- [ ] Sorting
-- [ ] Database Migration (Alembic)
-- [ ] Docker
-- [ ] Unit Testing
-- [ ] CI/CD Pipeline
-- [ ] Deployment
