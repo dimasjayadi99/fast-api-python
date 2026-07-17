@@ -1,6 +1,28 @@
-# Virtual Environment
-.venv/
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual env
 venv/
+.venv/
+env/
 
 # Environment
 .env
+.env.save
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Docker
+postgres_data/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
